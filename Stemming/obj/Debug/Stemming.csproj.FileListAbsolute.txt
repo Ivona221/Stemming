@@ -1,0 +1,7 @@
+D:\C#Projects\Stemming\Stemming\bin\Debug\Stemming.exe.config
+D:\C#Projects\Stemming\Stemming\bin\Debug\Stemming.exe
+D:\C#Projects\Stemming\Stemming\bin\Debug\Stemming.pdb
+D:\C#Projects\Stemming\Stemming\obj\Debug\Stemming.csprojAssemblyReference.cache
+D:\C#Projects\Stemming\Stemming\obj\Debug\Stemming.csproj.CoreCompileInputs.cache
+D:\C#Projects\Stemming\Stemming\obj\Debug\Stemming.exe
+D:\C#Projects\Stemming\Stemming\obj\Debug\Stemming.pdb
